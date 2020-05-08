@@ -1,7 +1,7 @@
 # akilidaniel.me
 ### DALI lab challenge
 
-link to the website: `<akilidaniel.me>`
+link to the website: http://akilidaniel.me
 
 This is my personal website that provides information about my background, experience, and education.
 
@@ -12,8 +12,8 @@ The website mainly has two pages:
     - Experience/Activities: contain information about my working/volunteering experiences.
     - Education: contain information about my education.  
 
-![alt text](akilidaniel.me/img/website1.jpg) 
+![alt text](img/website1.jpg) 
 
-![alt text](akilidaniel.me/img/website2.jpg) 
+![alt text](img/website2.jpg) 
 
-![alt text](akilidaniel.me/img/website3.jpg) 
+![alt text](img/website3.jpg) 
